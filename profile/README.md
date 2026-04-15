@@ -24,8 +24,3 @@ Follow us on our official accounts to stay updated on the latest news.
 </a>
 </div>
 
-Maintenance of the projects is made possible by the generous support of our sponsors:
-
-<div align="center">
-<img width="100%" alt="Localize The Docs" src="https://cdn.jsdelivr.net/gh/localizethedocs/sponsors/static/sponsors.svg" />
-</div>
